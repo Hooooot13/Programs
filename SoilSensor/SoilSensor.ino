@@ -6,6 +6,8 @@
     Basic skecth to print out soil moisture values to the Serial Monitor
 
     Released under the MIT License(http://opensource.org/licenses/MIT)
+
+    LINK: https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide
 */
 
 int val = 0; //value for storing moisture value
